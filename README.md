@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Amalsojan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Bachelor of Technology in Computer Science
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email-amalpeediackal@gmail.com
 
 <!---
